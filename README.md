@@ -45,11 +45,9 @@ An interactive Tableau project that turns the **Global Superstore** dataset (51,
 
 ## Screenshots
 
-Add your images to a `screenshots/` folder and link them here:
-
 ![Executive Overview](screenshots/executive-overview.png)
-![Profitability Deep Dive](screenshots/profitability-deep-dive.png)
-![Customer & Segment Insights](screenshots/customer-segment-insights.png)
+![Profitability Deep Dive](screenshots/profitability-deepdive.png)
+![Customer & Segment Insights](screenshots/customer-and-segment-analysis.png)
 
 ## How to Use
 
